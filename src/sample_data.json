@@ -1,0 +1,52 @@
+[
+  {
+    "question": {
+      "choices": ["2", "10", "6", "0"],
+      "correct_choice_index": 1,
+      "text": "How many dogs does Ariana Grande have?",
+      "user_id": "ZbCvDadaM0SD9YjAXrHMEDLVGoj2"
+    }
+  },
+  {
+    "question": {
+      "choices": [
+        "One Last Time",
+        "The Way",
+        "Dangerous Woman",
+        "Put Your Hearts Up"
+      ],
+      "correct_choice_index": 3,
+      "text": "What was Ariana Grande's first song?",
+      "user_id": "ZbCvDadaM0SD9YjAXrHMEDLVGoj2"
+    }
+  },
+  {
+    "question": {
+      "choices": ["Lavender", "Teal", "Grey", "Black"],
+      "correct_choice_index": 0,
+      "text": "What is Ariana Grande's favorite color",
+      "user_id": "ZbCvDadaM0SD9YjAXrHMEDLVGoj2"
+    }
+  },
+  {
+    "question": {
+      "choices": [
+        "New York City, NY",
+        "Los Angeles, CA",
+        "Boca Raton, Fl",
+        "Florence, Italy"
+      ],
+      "correct_choice_index": 2,
+      "text": "Where was Ariana Grande born?",
+      "user_id": "ZbCvDadaM0SD9YjAXrHMEDLVGoj2"
+    }
+  },
+  {
+    "question": {
+      "choices": ["January 22", "June 26", "December 28", "April 15"],
+      "correct_choice_index": 1,
+      "text": "What is Ariana Grande's birthday?",
+      "user_id": "ZbCvDadaM0SD9YjAXrHMEDLVGoj2"
+    }
+  }
+]
